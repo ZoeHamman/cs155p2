@@ -50,8 +50,7 @@ cin>>nickels;
   system("color 86");
   beep(880,100);
 
-//remove before turning in
-cout<<endl<<endl<<endl<<endl<<endl<<endl<<endl<<endl<<endl<<endl<<endl<<endl;
+ 
 
   //Part 2
   //variables
